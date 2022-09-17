@@ -1,8 +1,9 @@
 # Visual Meta-Guided Skin Lesion Classification
 
-### This repo contains our work which has been accepted at ML-CDS 2022. Proceedinsg of our work shall be published in conjunction with the proceedings of MICCAI 2022.
+### This repo contains our work which has been accepted at ML-CDS 2022. Proceedings of our work shall be published in conjunction with the proceedings of MICCAI 2022.
+### Co-authors: Anshul Pundhir, Ananya Agarwal, Saurabh Dadhich, Balasubramanian Raman
 
-To run the code:
+#### To run the code:
 
 _folder_path:  Give path to working directory 
 
